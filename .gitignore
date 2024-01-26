@@ -13,6 +13,7 @@ data_utils/face_parsing/79999_iter.pth
 
 pretrained
 moran
+moran_torso
 *.mp4
 
 scripts/train_chris_eo.sh
