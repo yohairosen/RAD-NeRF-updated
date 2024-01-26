@@ -12,6 +12,7 @@ data_utils/face_tracking/3DMM/*
 data_utils/face_parsing/79999_iter.pth
 
 pretrained
+moran
 *.mp4
 
 scripts/train_chris_eo.sh
